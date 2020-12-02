@@ -1,4 +1,7 @@
 ### My name is Tie-key-jah, but everyone calls me Tia 👋
+---
+![Illustration](https://github.com/tiaharris90/tiaharris90/blob/main/IMG_7924.JPG)
+
 
 <!--
 **tiaharris90/tiaharris90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
