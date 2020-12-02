@@ -9,14 +9,23 @@ and BS in UX/UI design.
 
 
 
+--
+
+	Some of the things I am currently into:
+
+ - 🌺 ... Currently working on Wordpress Templates for an  online theme shop.
+
+ - 🌺 ... Currently learning C# and some mild game developlement.
+
+ - 🌺 Ask me about anything design related! I eat, sleep, breath, and fluenty speak Adobe 😁.
 
 
-Some of the things I am currently into:
+--
 
-- 🌺 ... Currently working on Wordpress Templates for an  online theme shop.
+	Some of the things I am getting good at:
+ 
+   - 🌺 Identifying logical and syntax errors in C#, Javascript and Python.
 
-- 🌺 ... Currently learning C# and some mild game developlement.
+  - 🌺 Debugging Code.
 
-- 🌺 Ask me about anything design related! I eat, sleep, breath, and fluenty speak Adobe 😁.
-
-
+  - 🌺 Applying critical thinking and problem solving to integrative development. Developing using custom classes and methods.
