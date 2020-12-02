@@ -1,7 +1,7 @@
 ### Everyone calls me Tia ✨ 
 ---
 
-<img align="right" width="350" height="350" src="https://github.com/tiaharris90/tiaharris90/blob/main/IMG_7934.JPG">
+<img align="right" width="425" height="425" src="https://github.com/tiaharris90/tiaharris90/blob/main/IMG_7934.JPG">
 
 Hi, I'm Tia! An aspiring full-stack developer  with a passion for design. I'm a freelance web designer (HTML and CSS, you know the basic stuffs) currently pursuing 
 a BS degree in web application development 
