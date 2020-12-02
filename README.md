@@ -1,6 +1,8 @@
-### My name is Tie-key-jah, but everyone calls me Tia 👋
+### My name is Tie-key-jah, but everyone calls me Tia 
 ---
-![Illustration](https://github.com/tiaharris90/tiaharris90/blob/main/IMG_7924.JPG)
+Hi, I'm Tia! An aspiring full-stack developer with a passion for design.I'm a freelance web designer currently pursuing a BS degree in web development and BS in UX/UI design.
+<img align="right" width="300" height="300" src="https://github.com/tiaharris90/tiaharris90/blob/main/IMG_7924.JPG">
+
 
 
 <!--
