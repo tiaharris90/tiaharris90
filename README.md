@@ -11,7 +11,7 @@ and BS in UX/UI design.
 
 ---
 
-#####Some of the things I am currently into:
+##### Some of the things I am currently into:
 
  - 🌺 ... Currently working on Wordpress Templates for an  online theme shop.
 
@@ -21,10 +21,10 @@ and BS in UX/UI design.
 
 ---
 
-#####Some of the things I am getting good at:
+##### Some of the things I am getting good at:
 
  
-   - 🌺 Identifying logical and syntax errors in C#, Javascript and Python.
+  - 🌺 Identifying logical and syntax errors in C#, Javascript and Python.
 
   - 🌺 Debugging Code.
 
