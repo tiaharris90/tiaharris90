@@ -1,7 +1,7 @@
 ### Everyone calls me Tia ✨ 
 ---
 
-<img align="right" width="550" height="550" src="https://github.com/tiaharris90/tiaharris90/blob/main/blk%20copy.png">
+<img align="right" width="550" height="550" src="https://github.com/tiaharris90/tiaharris90/blob/main/dark.png">
 
 Hi, I'm Tia! A busybody techie with a passion for design, data and development. I've worked as a freelance web designer (HTML and CSS, you know the basic stuffs) have certifications in UX/UI design and data science. I absolutely love data wrangling!
 
