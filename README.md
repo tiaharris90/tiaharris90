@@ -3,9 +3,7 @@
 
 <img align="right" width="550" height="550" src="https://github.com/tiaharris90/tiaharris90/blob/main/12.PNG">
 
-Hi, I'm Tia! An aspiring full-stack developer  with a passion for design. I'm a freelance web designer (HTML and CSS, you know the basic stuffs) currently pursuing 
-a BS degree in web application development 
-and BS in UX/UI design. 
+Hi, I'm Tia! A busybody techie with a passion for design, data and development. I've worked as a freelance web designer (HTML and CSS, you know the basic stuffs) have certifications in UX/UI design and data science. I absolutely love data wrangling!
 
 
 
@@ -14,6 +12,8 @@ and BS in UX/UI design.
 ##### Some of the things I am currently into:
 
  - 🌺 ... Currently working on Wordpress Templates for an  online theme shop.
+
+ - 🌺 ... Data wrangling in Python. Pandas is so amazing!
 
  - 🌺 ... Currently learning C# and some mild game developlement.
 
